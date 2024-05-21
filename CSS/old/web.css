@@ -1,0 +1,105 @@
+	p {
+  	    font-weight: 400;
+		color: #bd2a2a;
+    } 
+	h1 {
+  	    font-weight: 800;
+		color: black;
+    } 
+	h2 {
+  	    font-weight: 800;
+		color: Brown;
+    } 
+	h3 {
+  	    font-weight: 800;
+		color: Red;
+    } 
+	h4 {
+  	    font-weight: 800;
+		color: black;
+    } 
+	h5 {
+  	    font-weight: 800;
+		color: green;
+    } 
+	h6 {
+  	    font-weight: 800;
+		color: blue;
+    } 
+/* At least two different font-weight, -style and -size */
+p {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 20px;
+}
+
+/* At least one font family with four typefaces */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Three differently aligned paragraphs */
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/* At least two different text-decorations */
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-line-through {
+    text-decoration: line-through;
+}
+
+/* At least one class selector and one ID selector */
+#unique-id {
+    font-weight: normal;
+}
+
+.normal-text {
+    font-style: normal;
+}
+
+/* Change the bullet type on your unordered list to squares */
+ul {
+    list-style-type: square;
+}
+
+/* Change the numbers on your ordered list to Roman numerals */
+ol {
+    list-style-type: upper-roman;
+}
+
+/* Use at least one div and one span */
+
+.container_head {
+    background-color: #95b3e8; /* Blooooo */
+    padding: 20px;
+}
+
+.container_body {
+    background-color: #868a91; /* Off grey lookin */
+    padding: 20px;
+}
+
+.container_foot {
+    background-color: #349eeb; /* Off bloooo */
+    padding: 10px;
+}
+
+.highlight {
+    color: #349eeb; /* bloooo */
+}
