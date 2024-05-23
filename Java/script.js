@@ -10,5 +10,5 @@ function validateForm() {
 }
 
 window.onload = function() {
-    alert("Welcome to XYZ Corporation Ltd. - Newsletter Signup");
+    alert("Welcome to Krause Electric Cars! - Newsletter Signup");
 };
