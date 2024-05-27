@@ -353,9 +353,9 @@ button[type="reset"]:hover {
 	display: grid;
     grid-template-columns: repeat(2, 150px);
     grid-gap: 20px;
-	            display: flex;
-            justify-content: center;
-            align-items: center;
+	display: flex;
+    justify-content: center;
+    align-items: center;
 	
         }
 .box {
